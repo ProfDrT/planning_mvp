@@ -1,0 +1,6 @@
+id,name,role,specialty,availability
+1,Dr. Smith,Doctor,Cardiology,"Mon,Tue,Wed,Thu,Fri"
+2,Nurse Johnson,Nurse,General,"Mon,Tue,Wed,Thu,Fri"
+3,Tech Brown,Technician,Radiology,"Mon,Wed,Fri"
+4,Room A,Equipment,Examination,All
+5,X-ray Machine,Equipment,Radiology,"Mon,Tue,Wed,Thu,Fri"
